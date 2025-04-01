@@ -68,6 +68,6 @@ Each component is interconnected, forming a continuous feedback loop. A weak sup
 
 This Power BI dashboard leverages several key tools and technologies to perform data transformations and calculations:
 
-**- Power Query:** Used for data importation and transformation, Power Query enables the cleaning, shaping, and loading of data from various sources into the Power BI environment. This process ensures that the data is in the correct format for analysis.
+- **Power Query:** Used for data importation and transformation, Power Query enables the cleaning, shaping, and loading of data from various sources into the Power BI environment. This process ensures that the data is in the correct format for analysis.
 
 
