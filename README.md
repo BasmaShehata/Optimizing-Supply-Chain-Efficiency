@@ -70,4 +70,6 @@ This Power BI dashboard leverages several key tools and technologies to perform 
 
 - **Power Query:** Used for data importation and transformation, Power Query enables the cleaning, shaping, and loading of data from various sources into the Power BI environment. This process ensures that the data is in the correct format for analysis.
 
+- **DAX (Data Analysis Expressions):** DAX is utilized for creating custom calculations and measures within the dashboard. It allows for advanced data modeling and enables the creation of dynamic calculations that respond to user interactions and filter selections.
 
+- **Data Modeling:** The relationships between different data tables are established to create a comprehensive data model. This ensures accurate insights and visualizations throughout the dashboard.
