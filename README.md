@@ -57,12 +57,17 @@ Each component is interconnected, forming a continuous feedback loop. A weak sup
 ![image](https://github.com/user-attachments/assets/ccecc025-6ef1-4d77-b6e1-20cc0c344ca2)
 
 **7. Sales Overview**
-- Avrg.Price , Total Sales, Total Cost, Total Profit, Profit Margin %, Qty Sold, Total No. order
+- Avrg.Price, Total Sales, Total Cost, Total Profit, Profit Margin %, Qty Sold, Total No. order
 - Total cost, Total Sales, Total profit and Profit Margin% by Product type
 - No. of products per category
 - Total Sales & Profit by Product Type with inventory turnover
 - Qty Sold and Total Sales by Product type
 
+# Data Processing, Model View, and Calculations 
+ ![image](https://github.com/user-attachments/assets/0a2a2649-238b-4d9b-98f8-895e4aa8313a)
 
+This Power BI dashboard leverages several key tools and technologies to perform data transformations and calculations:
+
+**- Power Query:** Used for data importation and transformation, Power Query enables the cleaning, shaping, and loading of data from various sources into the Power BI environment. This process ensures that the data is in the correct format for analysis.
 
 
