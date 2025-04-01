@@ -4,3 +4,5 @@ A Power BI dashboard optimizing supply chain efficiency by analyzing supplier pe
 # Visuals Included
 ![image](https://github.com/user-attachments/assets/07fb26e1-7fd3-4df8-9e13-d3d660fe4228)
 **1. Supplier Evaluation**
+- Total Quantity Supplied per Supplier
+- 
