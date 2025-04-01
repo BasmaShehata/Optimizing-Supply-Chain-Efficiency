@@ -11,7 +11,7 @@ A Power BI dashboard optimizing supply chain efficiency by analyzing supplier pe
 -  No. Of order delivered on time, No. orders delivered late and Supplier Efficiency Per Supplier
 -  Order Qty received on time, Total Qty supplied and supplier On-Time Delivery Quantity Rate by Product type
 -  Production volumes and Avg. Manufacturing lead time by Product type
--  
+ 
 ![image](https://github.com/user-attachments/assets/0e304cd7-7e04-48bf-9c31-694c0cdcc9a5)
 
 **2. Production Evaluation**
@@ -21,7 +21,7 @@ A Power BI dashboard optimizing supply chain efficiency by analyzing supplier pe
 - Qty Sold, Production Volume and Order quantities from supplier by Product type
 - Manufacturing cost by Product type and Inspection results
 - Order quantities from supplier and supplier On-Time Delivery Quantity Rate by Inspection results
-- 
+
 ![image](https://github.com/user-attachments/assets/da18a375-8949-4662-8858-1d24a9eb8e0f)
 
 **3. Inventory Evaluation**
@@ -30,5 +30,39 @@ A Power BI dashboard optimizing supply chain efficiency by analyzing supplier pe
 - Stock levels, Qty Sold and Inventory Turnover Ratio by Product type
 - Stock Cost and Stock levels by Product type
 - Stock levels, Production volumes, and Avg. Manufacturing lead time by Product type
+
+![image](https://github.com/user-attachments/assets/07fcfb02-5e58-4479-87c5-629182ef9e60)
+
+**4. Order Fulfilment**
+- Lowest Order Cycle, Highest Order Cycle, Avrg. Order Cycle , Order on Time Delivery Rate, Order Volume Per Month, Order Fullfilment Time
+- Total NO.order delivered on time Vs.Total Order
+- Order volume per month, Average of Order Processing Time(Days) and Order On-Time Delivery Rate by Product type
+- Order volume per month
+- Factors Affecting Order Fulfillment per Product Type
+- Order volume Vs. Production volume per warehouse
+
+![image](https://github.com/user-attachments/assets/ab0f85b3-aef6-4be5-881a-ab1fa5f40b40)
+
+**5. Shipping And Logistics**
+- Average of Shipping times (day), Shipping Cost
+- Average of Shipping times (day) by Transportation modes
+-  Shipping  Costs by Shipping carriers
+-  Average of Shipping times (day) by Shipping carriers
+
+![image](https://github.com/user-attachments/assets/2da2a515-8d54-440a-8bab-e1e7c1b667fe)
+
+**6. Summary**
+Each component is interconnected, forming a continuous feedback loop. A weak supplier disrupts production, leading to inventory shortages, order delays, and logistical inefficiencies. Conversely, an optimized evaluation process ensures a smooth, cost-effective, and reliable supply chain, improving customer satisfaction and business profitability.
+
+![image](https://github.com/user-attachments/assets/ccecc025-6ef1-4d77-b6e1-20cc0c344ca2)
+
+**7. Sales Overview**
+- Avrg.Price , Total Sales, Total Cost, Total Profit, Profit Margin %, Qty Sold, Total No. order
+- Total cost, Total Sales, Total profit and Profit Margin% by Product type
+- No. of products per category
+- Total Sales & Profit by Product Type with inventory turnover
+- Qty Sold and Total Sales by Product type
+
+
 
 
