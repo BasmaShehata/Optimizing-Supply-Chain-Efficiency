@@ -3,7 +3,9 @@
 A Power BI dashboard optimizing supply chain efficiency by analyzing supplier performance, production efficiency, inventory evaluation, order fulfillment, shipping & logistics, and sales overview. Visuals highlight key interdependencies, track performance metrics, and provide actionable insights to enhance decision-making, reduce inefficiencies, and improve supply chain resilience. Ideal for supply chain managers to monitor operations and drive strategic improvements.
 # Visuals Included
 
-![image](https://github.com/user-attachments/assets/07fb26e1-7fd3-4df8-9e13-d3d660fe4228)
+![image](https://github.com/user-attachments/assets/61b07b78-2bd2-4edc-8c5b-2a5cbc89942e)
+
+
 
 **1. Supplier Evaluation**
 - No.of Supplier, Avrg.Lead Time, Avrg.Lead Time Variance, Total Qty Supplied, Supplier on Time Delivery Qty Rate, Supplier Efficiency 
@@ -12,7 +14,8 @@ A Power BI dashboard optimizing supply chain efficiency by analyzing supplier pe
 -  Order Qty received on time, Total Qty supplied and supplier On-Time Delivery Quantity Rate by Product type
 -  Production volumes and Avg. Manufacturing lead time by Product type
  
-![image](https://github.com/user-attachments/assets/0e304cd7-7e04-48bf-9c31-694c0cdcc9a5)
+![image](https://github.com/user-attachments/assets/681b4c7e-30f6-4d7e-916a-05d1ed3d9e0e)
+
 
 **2. Production Evaluation**
 - Defect Rate % , Production Volume , Manufacturing Cost , Avrg. Manufacturing Lead Time, Order Quantity from supplier
@@ -22,7 +25,9 @@ A Power BI dashboard optimizing supply chain efficiency by analyzing supplier pe
 - Manufacturing cost by Product type and Inspection results
 - Order quantities from supplier and supplier On-Time Delivery Quantity Rate by Inspection results
 
-![image](https://github.com/user-attachments/assets/da18a375-8949-4662-8858-1d24a9eb8e0f)
+![image](https://github.com/user-attachments/assets/cdef2c7a-2675-4aa7-aaa0-59fd997e517b)
+
+
 
 **3. Inventory Evaluation**
 - Stock Availability, Stock Levels, Inventory Turnover Ratio, Days Sales of Inventory, Stock Out Rate
@@ -31,7 +36,8 @@ A Power BI dashboard optimizing supply chain efficiency by analyzing supplier pe
 - Stock Cost and Stock levels by Product type
 - Stock levels, Production volumes, and Avg. Manufacturing lead time by Product type
 
-![image](https://github.com/user-attachments/assets/07fcfb02-5e58-4479-87c5-629182ef9e60)
+![image](https://github.com/user-attachments/assets/dc2ff2cd-e64f-438a-ba9d-77bd8eb2d523)
+
 
 **4. Order Fulfilment**
 - Lowest Order Cycle, Highest Order Cycle, Avrg. Order Cycle , Order on Time Delivery Rate, Order Volume Per Month, Order Fullfilment Time
@@ -41,7 +47,8 @@ A Power BI dashboard optimizing supply chain efficiency by analyzing supplier pe
 - Factors Affecting Order Fulfillment per Product Type
 - Order volume Vs. Production volume per warehouse
 
-![image](https://github.com/user-attachments/assets/ab0f85b3-aef6-4be5-881a-ab1fa5f40b40)
+![image](https://github.com/user-attachments/assets/e6968b18-15d3-4037-81e8-fc50c4106009)
+
 
 **5. Shipping And Logistics**
 - Average of Shipping times (day), Shipping Cost
@@ -49,12 +56,14 @@ A Power BI dashboard optimizing supply chain efficiency by analyzing supplier pe
 -  Shipping  Costs by Shipping carriers
 -  Average of Shipping times (day) by Shipping carriers
 
-![image](https://github.com/user-attachments/assets/2da2a515-8d54-440a-8bab-e1e7c1b667fe)
+![image](https://github.com/user-attachments/assets/022525a8-01d6-4c68-b4a1-6ed21ffa1379)
+
 
 **6. Summary**
 Each component is interconnected, forming a continuous feedback loop. A weak supplier disrupts production, leading to inventory shortages, order delays, and logistical inefficiencies. Conversely, an optimized evaluation process ensures a smooth, cost-effective, and reliable supply chain, improving customer satisfaction and business profitability.
 
-![image](https://github.com/user-attachments/assets/ccecc025-6ef1-4d77-b6e1-20cc0c344ca2)
+![image](https://github.com/user-attachments/assets/1fab948b-55c8-4d07-8302-4f5c8f551a05)
+
 
 **7. Sales Overview**
 - Avrg.Price, Total Sales, Total Cost, Total Profit, Profit Margin %, Qty Sold, Total No. order
