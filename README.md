@@ -10,15 +10,15 @@ In this project, I conducted an end-to-end analysis of the supply chain to asses
 **1. Supplier Evaluation**
 Analyzed supplier performance based on:
 
--Number of suppliers
+- Number of suppliers
 
--Average lead time and its variance
+- Average lead time and its variance
 
--Total quantity supplied
+- Total quantity supplied
 
--On-time delivery rate
+- On-time delivery rate
 
--Supplier efficiency per supplier
+- Supplier efficiency per supplier
 
 I also evaluated the quantity received on time by product type and tracked order delivery (on time vs. late) to assess supplier reliability. This helped identify high-performing suppliers and areas for procurement improvement to reduce delays and ensure consistent production flow.
  
