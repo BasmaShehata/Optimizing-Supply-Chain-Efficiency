@@ -110,6 +110,7 @@ Measured business impact via:
 - Total number of orders
 
 Also analyzed sales performance by product category, linked it with inventory turnover, and identified high-profit, high-demand products. This connected operational improvements with financial outcomes.
+
 **Impact on Sales**
 The comprehensive improvements across sourcing, production, inventory, fulfillment, and logistics resulted in:
 
