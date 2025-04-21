@@ -45,11 +45,19 @@ Data was broken down by product type to monitor quality trends, align supplier d
 
 
 **3. Inventory Evaluation**
-- Stock Availability, Stock Levels, Inventory Turnover Ratio, Days Sales of Inventory, Stock Out Rate
-- Stock Levels per warehouse
-- Stock levels, Qty Sold and Inventory Turnover Ratio by Product type
-- Stock Cost and Stock levels by Product type
-- Stock levels, Production volumes, and Avg. Manufacturing lead time by Product type
+Evaluated inventory performance through:
+
+- Stock availability
+
+- Stock levels across warehouses
+
+- Inventory turnover ratio
+
+- Days Sales of Inventory (DSI)
+
+- Stock-out rate
+
+Linked inventory levels to sales and production volumes by product type. The goal was to optimize inventory, reduce excess stock, and improve stock availability to meet demand with minimal delays or losses.
 
 ![image](https://github.com/user-attachments/assets/dc2ff2cd-e64f-438a-ba9d-77bd8eb2d523)
 
