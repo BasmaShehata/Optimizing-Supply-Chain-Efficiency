@@ -2,17 +2,25 @@
 # Overview
 A Power BI dashboard optimizing supply chain efficiency by analyzing supplier performance, production efficiency, inventory evaluation, order fulfillment, shipping & logistics, and sales overview. Visuals highlight key interdependencies, track performance metrics, and provide actionable insights to enhance decision-making, reduce inefficiencies, and improve supply chain resilience. Ideal for supply chain managers to monitor operations and drive strategic improvements.
 # Visuals Included
-
+In this project, I conducted an end-to-end analysis of the supply chain to assess performance, identify inefficiencies, and drive improvements that directly impact operational excellence and sales performance. The analysis was divided into six key phases:
 ![image](https://github.com/user-attachments/assets/61b07b78-2bd2-4edc-8c5b-2a5cbc89942e)
 
 
 
 **1. Supplier Evaluation**
-- No.of Supplier, Avrg.Lead Time, Avrg.Lead Time Variance, Total Qty Supplied, Supplier on Time Delivery Qty Rate, Supplier Efficiency 
--  Total Quantity Supplied With Supplier on Time Delivery Qty Rate
--  No. Of order delivered on time, No. orders delivered late and Supplier Efficiency Per Supplier
--  Order Qty received on time, Total Qty supplied and supplier On-Time Delivery Quantity Rate by Product type
--  Production volumes and Avg. Manufacturing lead time by Product type
+Analyzed supplier performance based on:
+
+-Number of suppliers
+
+-Average lead time and its variance
+
+-Total quantity supplied
+
+-On-time delivery rate
+
+-Supplier efficiency per supplier
+
+I also evaluated the quantity received on time by product type and tracked order delivery (on time vs. late) to assess supplier reliability. This helped identify high-performing suppliers and areas for procurement improvement to reduce delays and ensure consistent production flow.
  
 ![image](https://github.com/user-attachments/assets/681b4c7e-30f6-4d7e-916a-05d1ed3d9e0e)
 
