@@ -63,21 +63,29 @@ Linked inventory levels to sales and production volumes by product type. The goa
 
 
 **4. Order Fulfilment**
-- Lowest Order Cycle, Highest Order Cycle, Avrg. Order Cycle , Order on Time Delivery Rate, Order Volume Per Month, Order Fullfilment Time
-- Total NO.order delivered on time Vs.Total Order
-- Order volume per month, Average of Order Processing Time(Days) and Order On-Time Delivery Rate by Product type
+Analyzed order cycle times and fulfillment efficiency by tracking:
+
+- Fastest, slowest, and average order cycle
+
+- On-time delivery rate
+
 - Order volume per month
-- Factors Affecting Order Fulfillment per Product Type
-- Order volume Vs. Production volume per warehouse
+
+- Fulfillment time by product type
+
+Explored factors affecting order fulfillment and aligned production with order volumes per warehouse. The outcome was reduced delivery times, improved order accuracy, and better customer satisfaction.
 
 ![image](https://github.com/user-attachments/assets/e6968b18-15d3-4037-81e8-fc50c4106009)
 
 
 **5. Shipping And Logistics**
-- Average of Shipping times (day), Shipping Cost
-- Average of Shipping times (day) by Transportation modes
--  Shipping  Costs by Shipping carriers
--  Average of Shipping times (day) by Shipping carriers
+Monitored shipping efficiency and cost-effectiveness through:
+
+- Average shipping times by transportation mode and carrier
+
+- Shipping cost per carrier
+
+This helped identify the most reliable and cost-effective logistics partners and improve last-mile delivery performance while reducing logistics expenses.
 
 ![image](https://github.com/user-attachments/assets/022525a8-01d6-4c68-b4a1-6ed21ffa1379)
 
@@ -89,12 +97,33 @@ Each component is interconnected, forming a continuous feedback loop. A weak sup
 
 
 **7. Sales Overview**
-- Avrg.Price, Total Sales, Total Cost, Total Profit, Profit Margin %, Qty Sold, Total No. order
-- Total cost, Total Sales, Total profit and Profit Margin% by Product type
-- No. of products per category
-- Total Sales & Profit by Product Type with inventory turnover
-- Qty Sold and Total Sales by Product type
+Measured business impact via:
 
+- Average price
+
+- Total sales, cost, and profit
+
+- Profit margin
+
+- Quantity sold
+
+- Total number of orders
+
+Also analyzed sales performance by product category, linked it with inventory turnover, and identified high-profit, high-demand products. This connected operational improvements with financial outcomes.
+**Impact on Sales**
+The comprehensive improvements across sourcing, production, inventory, fulfillment, and logistics resulted in:
+
+- Faster lead times and smoother operations
+
+- Higher product availability
+
+- Reduced stock-outs and production delays
+
+- Lower operational costs
+
+- Better customer experience
+
+This directly contributed to increased sales volume, improved profit margins, and enhanced customer satisfaction.
 # Data Processing, Model View, and Calculations 
  ![image](https://github.com/user-attachments/assets/0a2a2649-238b-4d9b-98f8-895e4aa8313a)
 
