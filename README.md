@@ -26,12 +26,19 @@ I also evaluated the quantity received on time by product type and tracked order
 
 
 **2. Production Evaluation**
-- Defect Rate % , Production Volume , Manufacturing Cost , Avrg. Manufacturing Lead Time, Order Quantity from supplier
-- Total NO. of products by Inspection results
-- Production volumes and Defect Rate % by Product type
-- Qty Sold, Production Volume and Order quantities from supplier by Product type
-- Manufacturing cost by Product type and Inspection results
-- Order quantities from supplier and supplier On-Time Delivery Quantity Rate by Inspection results
+Assessed production operations using:
+
+- Defect rate
+
+- Production volume
+
+- Manufacturing cost
+
+- Average manufacturing lead time
+
+- Supplier order quantities
+
+Data was broken down by product type to monitor quality trends, align supplier deliveries with production needs, and reduce manufacturing costs through better planning. This phase helped increase production efficiency while maintaining quality.
 
 ![image](https://github.com/user-attachments/assets/cdef2c7a-2675-4aa7-aaa0-59fd997e517b)
 
